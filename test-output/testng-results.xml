@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="40742" started-at="2017-08-31T08:40:07Z" finished-at="2017-08-31T08:40:48Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="40742" started-at="2017-08-31T08:40:07Z" finished-at="2017-08-31T08:40:48Z">
+      <class name="saucelabDemo.saucelabDemo">
+        <test-method status="PASS" signature="firstTest()[pri:0, instance:saucelabDemo.saucelabDemo@6842775d]" name="firstTest" duration-ms="40730" started-at="2017-08-31T14:10:07Z" finished-at="2017-08-31T14:10:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firstTest -->
+      </class> <!-- saucelabDemo.saucelabDemo -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

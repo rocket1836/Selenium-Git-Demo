@@ -1,0 +1,1 @@
+java -cp lib/testng-6.8.jar:lib/selenium-server-standalone-3.4.0.jar:bin org.testng.TestNG testng.xml
